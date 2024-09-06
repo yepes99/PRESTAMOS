@@ -1,4 +1,4 @@
-<nav class="full-box navbar-info">
+<nav class="full-box navbar-info mt-3">
 				<a href="#" class="float-left show-nav-lateral">
 					<i class="fas fa-exchange-alt"></i>
 				</a>
